@@ -5,5 +5,5 @@
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masonletoile)
-[![Email](https://img.shields.io/badge/Email-Contact-darkgreen?logo=gmail&logoColor=white)](mailto:masonletoile@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-darkgreen?logo=gmail&logoColor=white)](mailto:masonletoile@hotmail.com)
 
