@@ -2,6 +2,7 @@
 I'm a developer currently focused on C++ graphics, real-time rendering, engines, and custom game engine tools.
 
 ## 🎓 Education
+*Currently enrolled — 2 semesters remaining*
 [Computer Programming & Analysis, **Fanshawe College**](https://www.fanshawec.ca/programs/cpa3-computer-programming-and-analysis-co-op/current)
 
 ## 🛠️ Currently working on..
