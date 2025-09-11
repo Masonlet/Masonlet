@@ -1,5 +1,5 @@
 # Mason L'Etoile
-I'm a developer currently focused on C++ graphics, real-time rendering, engines, and custom game engine tools.
+Developer currently focused on C++ graphics, real-time rendering, engines, and custom game engine tools.
 
 ## 🎓 Education
 [Computer Programming & Analysis, **Fanshawe College**](https://www.fanshawec.ca/programs/cpa3-computer-programming-and-analysis-co-op/current)
