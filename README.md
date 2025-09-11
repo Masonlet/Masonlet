@@ -1,5 +1,18 @@
 # Mason L'Etoile
 ## Computer Programming & Analysis, Fanshawe College
+I'm a developer currently focused on C++ graphics, real-time rendering, engines, and custom game engine tools.
+
+## Currently working on..
+Currently building the **Starlet Engine** ecosystem (C++/OpenGL).  
+
+### 🚀 Starlet Projects
+- [**StarletEngine**](https://github.com/Masonlet/StarletEngine) – Core game/graphics engine (C++ / OpenGL)
+- [**StarletMath**](https://github.com/Masonlet/StarletMath) – Lightweight header-only math library
+- [**StarletControls**](https://github.com/Masonlet/StarletControls) – Input & control management
+- [**StarletScene**](https://github.com/Masonlet/StarletScene) – Scene management with loaders & parsers
+- [**StarletGraphics**](https://github.com/Masonlet/StarletGraphics) – Mesh, texture, shader management
+- [**StarletParsers**](https://github.com/Masonlet/StarletParsers) – File & text parsing utilities
+- [**StarletTesting**](https://github.com/Masonlet/StarletTesting) – Sample Starlet engine usage & Sample scenes
 
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masonletoile)
