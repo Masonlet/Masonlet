@@ -1,8 +1,10 @@
 # Mason L'Etoile
-## Computer Programming & Analysis, Fanshawe College
 I'm a developer currently focused on C++ graphics, real-time rendering, engines, and custom game engine tools.
 
-## Currently working on..
+## 🎓 Education
+[Computer Programming & Analysis, **Fanshawe College**](https://www.fanshawec.ca/programs/cpa3-computer-programming-and-analysis-co-op/current)
+
+## 🛠️ Currently working on..
 Currently building the **Starlet Engine** ecosystem (C++/OpenGL).  
 
 ### 🚀 Starlet Projects
@@ -14,7 +16,7 @@ Currently building the **Starlet Engine** ecosystem (C++/OpenGL).
 - [**StarletParsers**](https://github.com/Masonlet/StarletParsers) – File & text parsing utilities
 - [**StarletTesting**](https://github.com/Masonlet/StarletTesting) – Sample Starlet engine usage & Sample scenes
 
-### Connect
+## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masonletoile)
 [![Email](https://img.shields.io/badge/Email-darkgreen?logo=gmail&logoColor=white)](mailto:masonletoile@hotmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)](https://masonletoile.ca)
