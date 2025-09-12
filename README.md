@@ -18,6 +18,18 @@ Developer currently focused on C++ graphics, real-time rendering, engines, and c
 - [**StarletParsers**](https://github.com/Masonlet/StarletParsers) – File & text parsing utilities
 - [**StarletTesting**](https://github.com/Masonlet/StarletTesting) – Sample Starlet engine usage & Sample scenes.
 
+## 💻 Languages
+
+### Front End
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)]()
+
+### Back End
+[![C++](https://img.shields.io/badge/C++-%2300599C?logo=cplusplus&logoColor=white)]()
+[![C#](https://img.shields.io/badge/C%23-%23239120?logo=csharp&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-%23007396?logo=openjdk&logoColor=white)]()
+
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masonletoile)
 [![Email](https://img.shields.io/badge/Email-darkgreen?logo=gmail&logoColor=white)](mailto:masonletoile@hotmail.com)
