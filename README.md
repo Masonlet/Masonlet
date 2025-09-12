@@ -2,12 +2,11 @@
 Full Stack Developer currently focused on C++ graphics, real-time rendering, engines, and custom game engine tools.
 
 ## 🎓 Education
-[Computer Programming & Analysis, **Fanshawe College**](https://www.fanshawec.ca/programs/cpa3-computer-programming-and-analysis-co-op/current)
-*Currently enrolled — 2 semesters remaining*
+[Computer Programming & Analysis, **Fanshawe College**](https://www.fanshawec.ca/programs/cpa3-computer-programming-and-analysis-co-op/current) *In progress — 2 semesters remaining*
 
 ## 🛠️ Currently working on..
 - Building the **Starlet Engine** ecosystem (C++/OpenGL).  
-- Starting a Digital Media company with friends.
+- Co-founding a digital media startup with friends.
 
 ### 🚀 Starlet Projects
 - [**StarletEngine**](https://github.com/Masonlet/StarletEngine) – Core game/graphics engine (C++ / OpenGL)
@@ -16,7 +15,7 @@ Full Stack Developer currently focused on C++ graphics, real-time rendering, eng
 - [**StarletScene**](https://github.com/Masonlet/StarletScene) – Scene management with loaders & parsers
 - [**StarletGraphics**](https://github.com/Masonlet/StarletGraphics) – Mesh, texture, shader management
 - [**StarletParsers**](https://github.com/Masonlet/StarletParsers) – File & text parsing utilities
-- [**StarletTesting**](https://github.com/Masonlet/StarletTesting) – Sample Starlet engine usage & Sample scenes
+- [**StarletTesting**](https://github.com/Masonlet/StarletTesting) – Sample Starlet engine usage & Sample scenes.
 
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masonletoile)
