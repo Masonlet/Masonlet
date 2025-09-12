@@ -1,12 +1,13 @@
 # Mason L'Etoile
-Developer currently focused on C++ graphics, real-time rendering, engines, and custom game engine tools.
+Full Stack Developer currently focused on C++ graphics, real-time rendering, engines, and custom game engine tools.
 
 ## 🎓 Education
 [Computer Programming & Analysis, **Fanshawe College**](https://www.fanshawec.ca/programs/cpa3-computer-programming-and-analysis-co-op/current)
 *Currently enrolled — 2 semesters remaining*
 
 ## 🛠️ Currently working on..
-Currently building the **Starlet Engine** ecosystem (C++/OpenGL).  
+- Building the **Starlet Engine** ecosystem (C++/OpenGL).  
+- Starting a Digital Media company with friends.
 
 ### 🚀 Starlet Projects
 - [**StarletEngine**](https://github.com/Masonlet/StarletEngine) – Core game/graphics engine (C++ / OpenGL)
