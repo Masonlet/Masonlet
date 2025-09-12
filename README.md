@@ -5,7 +5,8 @@ Full Stack Developer currently focused on C++ graphics, real-time rendering, eng
 [Computer Programming & Analysis, **Fanshawe College**](https://www.fanshawec.ca/programs/cpa3-computer-programming-and-analysis-co-op/current) *In progress — 2 semesters remaining*
 
 ## 🛠️ Currently working on..
-- Building the **Starlet Engine** ecosystem (C++/OpenGL).  
+- Building the **Starlet Engine** ecosystem (C++/OpenGL).
+- Developing educational repositories for learning OpenGL and Vulkan.
 - Co-founding a digital media startup with friends.
 
 ### 🚀 Starlet Projects
