@@ -9,16 +9,6 @@ Developer currently focused on C++ graphics, real-time rendering, engines, and c
 - Developing educational repositories for learning OpenGL and Vulkan.
 - Co-founding a digital media startup with friends.
 
-### 🚀 Starlet Projects
-- [**StarletEngine**](https://github.com/Masonlet/StarletEngine) – Core game/graphics engine (C++ / OpenGL)
-- [**StarletMath**](https://github.com/Masonlet/StarletMath) – Lightweight Header-only math library
-- [**StarletControls**](https://github.com/Masonlet/StarletControls) – Input & control management
-- [**StarletScene**](https://github.com/Masonlet/StarletScene) – Scene management with loaders & parsers
-- [**StarletGraphics**](https://github.com/Masonlet/StarletGraphics) – Mesh, texture, shader management
-- [**StarletParsers**](https://github.com/Masonlet/StarletParsers) – File & text parsing utilities
-- [**StarletSamples**](https://github.com/Masonlet/StarletSamples) – Engine demonstration & sample scenes.
-- [**StarletStarter**](https://github.com/Masonlet/StarletStarter) - Starting template for new Starlet game projects
-
 ## 💻 Languages
 
 <span><b>Back End : </b>
