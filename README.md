@@ -7,8 +7,8 @@ Developer currently focused on C++ graphics, real-time rendering, engines, and c
 ## 🛠️ Currently working on..
 - **[Starlet:](https://github.com/Masonlet/StarletDevelopment)** Building the **Starlet Engine** ecosystem (C++/OpenGL).
 - **[Portfolio:](https://github.com/Masonlet/Portfolio)** Personal development website.
-- **[LearningOpenGL:](https://github.com/Masonlet/LearningVulkan)** Developing educational repositories for learning Vulkan.
-- **[LearningVulkan:](https://github.com/Masonlet/LearningOpenGL)** Developing educational repositories for learning OpenGL.
+- **[LearningOpenGL:](https://github.com/Masonlet/LearningVulkan)** Developing educational repositories for learning OpenGL.
+- **[LearningVulkan:](https://github.com/Masonlet/LearningOpenGL)** Developing educational repositories for learning Vulkan.
 
 ## 💻 Languages
 
