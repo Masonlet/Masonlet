@@ -8,8 +8,6 @@ Developer currently focused on C++ graphics, real-time rendering, engines, and c
 - **[Starlet:](https://github.com/Masonlet/StarletDevelopment)** Building the **Starlet Engine** ecosystem (C++/OpenGL).
 - **[TaskTracker:](https://github.com/Masonlet/TaskTracker)** Windows 10/11 utility that adds task status controls to folder context menus
 - **[Portfolio:](https://github.com/Masonlet/Portfolio)** Personal development website.
-- **[LearningOpenGL:](https://github.com/Masonlet/LearningOpenGL)** Developing educational repositories for learning OpenGL.
-- **[LearningVulkan:](https://github.com/Masonlet/LearningVulkan)** Developing educational repositories for learning Vulkan.
 
 ## 💻 Languages
 
